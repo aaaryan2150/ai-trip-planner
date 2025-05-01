@@ -4,6 +4,8 @@
 # Environment variables
 .env
 .env.local
+src/.env
+
 
 # Logs
 logs
